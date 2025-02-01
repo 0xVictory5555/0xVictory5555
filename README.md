@@ -1,10 +1,6 @@
-I'm a AI Engineer | trading bot | fullstack developer.
+I'm a Trading | Telegram bot | fullstack developer.
 
 
-## ⚡️ A Few Quick Facts
-
-- 🧐 Trading bot, Telegram bot, AI chatbot, Mini-App.
-- 🧐 various website projects
 
 
 
