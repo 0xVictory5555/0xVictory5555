@@ -1,20 +1,11 @@
-## Hi 👋, I'm Takeru Nishimura
-
-I'm a AI Engineer and fullstack developer with a Computer Science background, with 5 years experience, with a strong interest in distributed systems.
-
-
+I'm a AI Engineer | trading bot | fullstack developer.
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m working at [Storacha](https://storacha.network/).
-- 🧐 AI chatbot,Mini-App.
+- 🧐 Trading bot, Telegram bot, AI chatbot, Mini-App.
 - 🧐 various website projects
-- 🧐 Always learning about blockchain, smart contracts, and software development.
-- 🤔 I’m looking for help with developing distributed systems in Rust and GO.
-- 💬 Ping me about blockchain stuff.
-- 📙 Check out my [resume].
-- 🎉 Fun Fact: I like cyberpunk and practice Muay Thai.
+
 
 
 <h2>🚀 Some Tools I Use</h2>
