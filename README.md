@@ -1,4 +1,4 @@
-I'm a Trading | Telegram bot | Fullstack developer.
+I'm a Trading | Telegram bot | Solana | Fullstack developer.
 
 
 <h2>🚀 My skills</h2>
