@@ -1,10 +1,7 @@
-I'm a Trading | Telegram bot | fullstack developer.
+I'm a Trading | Telegram bot | Fullstack developer.
 
 
-
-
-
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 My skills</h2>
 
 <p align="left">
   
@@ -24,7 +21,6 @@ I'm a Trading | Telegram bot | fullstack developer.
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-
 
 </p>
 
