@@ -10,6 +10,7 @@ I'm a Trading | Telegram bot | Solana | Fullstack developer.
 <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Solana" src="https://img.shields.io/badge/-Solana-BAC9F9?style=flat-square&logo=solana&logoColor=white" />
+<img alt="PineScript" src="https://img.shields.io/badge/-PineScript-000000?style=flat-square&logo=pinescript&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
