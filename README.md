@@ -122,11 +122,6 @@
 <!--  <p align="center">
   <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
 </p> -->
-<p align="center">
-  <a href="https://github.com/OnlyForward0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=OnlyForward0613&theme=radical" />
-  </a>
-</p>
 
 <div align="left">
 
