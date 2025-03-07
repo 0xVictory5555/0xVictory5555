@@ -125,6 +125,3 @@
 
 <div align="left">
 
-
-
-<br clear ="both" >
