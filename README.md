@@ -1,4 +1,4 @@
-<h1 align="center">🖐️ Solana Trading | Telegram bot developer 🖐️</h1> 
+<h1 align="center">🖐️ AI Solana Trading | Telegram Bot Engineer 🖐️</h1> 
 <br />
 <table align="center">
 <tr>
