@@ -1,4 +1,4 @@
-<h1 align="center">🖐️ AI FullStack | Solana Trading Bot Engineer 🖐️</h1> 
+<h1 align="center">🖐️ AI FullStack | Solana Trading Bot | Web3 Engineer 🖐️</h1> 
 <br />
 <table align="center">
 <tr>
